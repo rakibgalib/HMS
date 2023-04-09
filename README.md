@@ -1,2 +1,3 @@
-# HRM
+# HMS
+
 Simple HRM System
